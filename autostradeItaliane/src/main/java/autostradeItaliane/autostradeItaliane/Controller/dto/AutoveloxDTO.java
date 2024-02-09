@@ -1,0 +1,20 @@
+package autostradeItaliane.autostradeItaliane.Controller.dto;
+
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class AutoveloxDTO {
+    private int id;
+    @NotBlank
+    private String codice;
+    @NotBlank
+    private String citta;
+    @NotNull
+    private int velocita;
+}
