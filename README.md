@@ -1,5 +1,5 @@
-L'esercizio richiede di sviluppare un'applicazione mobile che simuli parte di un sistema per la gestione delle rilevazioni di velocità delle autostrade italiane.
-L'applicazione deve gestire automobili, autovelox e le relative rilevazioni di velocità. 
+Il progetto sviluppato va a similuare il frammento di un sistema per la gestione degli autovelox e delle rilevazioni di velocita in varie citta Italiane.
+L'applicazione quindi gestisce automobili, autovelox e le relative rilevazioni di velocità. 
 Gli utenti possono cercare autovelox per città, inserire nuove rilevazioni e visualizzare statistiche sugli autovelox nelle città selezionate.
 
 l progetto è stato implementato in Java versione 17 e, in particolare, è stato usato il framework Spring-boot.
